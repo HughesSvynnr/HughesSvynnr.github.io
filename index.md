@@ -1,3 +1,12 @@
+# Unit, conditionals 9/21/2018
+This week I learned how to use if statements.
+Within the if statement i also learned how to use else statements
+Also within the if statements, I learned how to use elif statements.
+Then finally I learned how to use and statements within if statments
+and or statements within if statements.
+
+---
+
 #  Variables, Expressions 9/14/2018
 
 This week I learned what concatenation means and how to use it.
