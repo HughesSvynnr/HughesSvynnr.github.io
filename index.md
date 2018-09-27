@@ -1,4 +1,15 @@
+# Unit, lists 9/27/18
+
+this week I learned how to write if statements with and's and or's
+I also learned how to assign more than one string to a variable
+Taking variables I learned how to make a list with the variables
+Using the list I learned how to effectively use it to be more efficient in writing code
+With if statements I learned how write elif statements added on
+also with if statements I learned the difference between elif and else statements.
+---
+
 # Unit, conditionals 9/21/2018
+
 This week I learned how to use if statements.
 Within the if statement i also learned how to use else statements
 Also within the if statements, I learned how to use elif statements.
