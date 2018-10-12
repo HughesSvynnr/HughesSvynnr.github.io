@@ -1,3 +1,10 @@
+# Unit, For loops 10/12/18
+This week I learned how to use a forloop to seperate integers in a number.
+I am also learning how to do the same with strings in a sentence or word.
+Using for loops I also learned how to get a factor from a number.
+I also learned how to use for loops to put integers or strings into lists
+Last thing i learned with for loops is how to use them with if statements.
+
 # Unit, lists 9/27/18
 
 this week I learned how to write if statements with and's and or's
