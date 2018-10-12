@@ -5,6 +5,8 @@ Using for loops I also learned how to get a factor from a number.
 I also learned how to use for loops to put integers or strings into lists
 Last thing i learned with for loops is how to use them with if statements.
 
+---
+
 # Unit, lists 9/27/18
 
 this week I learned how to write if statements with and's and or's
@@ -13,6 +15,7 @@ Taking variables I learned how to make a list with the variables
 Using the list I learned how to effectively use it to be more efficient in writing code
 With if statements I learned how write elif statements added on
 also with if statements I learned the difference between elif and else statements.
+
 ---
 
 # Unit, conditionals 9/21/2018
