@@ -1,3 +1,13 @@
+# Unit, Dictionaries 10/19/18
+This week I learned how to code dictionaries and how to use them
+You can indeed put lists inside dictionaries
+Dictionaries may also be included into other dictionaries to make dictionaries of dictionaries
+To make a dictionary you use { instead of ] for a loop.
+I also learned how to use a loop to run a dictionary
+Along with if statements to run dictionaries.
+
+---
+
 # Unit, For loops 10/12/18
 This week I learned how to use a forloop to seperate integers in a number.
 I am also learning how to do the same with strings in a sentence or word.
