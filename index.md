@@ -1,3 +1,19 @@
+
+#classroom continued 11/30/18
+This week I learned how to code class variables,
+
+Also how to define INIT methods with the define function
+
+Also learned how to call defined functions after coding them
+
+Learned how to pull coding from other sections to another,
+
+Learned to use class functions to make cards
+
+Learned bad jokes and shuffle and create more than oe deck of cards.
+
+---
+
 # Unit, Dictionaries 10/19/18
 This week I learned how to code dictionaries and how to use them
 
