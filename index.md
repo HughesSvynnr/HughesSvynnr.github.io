@@ -1,3 +1,18 @@
+#gofish 12/7/2018
+This week I learned how to play gofish on python by making ranks suits and cards combined into a deck
+
+I learned how to import different blocks of code into other blocks
+
+learned how to make a deck of cards
+
+learned how to bully spice into giving me his cards in gofish and create ranks for python deck
+
+learned how to create a random suit for each card in a deck
+
+learned how to import cards into a deck and play gofish
+
+---
+
 
 #classroom continued 11/30/18
 This week I learned how to code class variables,
